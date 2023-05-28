@@ -1,5 +1,6 @@
 .cargo
 target/
+result/
 vendor/
 vendor.tar
 debian/*
